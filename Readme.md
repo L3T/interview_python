@@ -88,11 +88,11 @@
     - [unix进程间通信方式(IPC)](#unixipc)
 - [数据结构](#数据结构)
     - [1 红黑树](#1-红黑树)
-- [TODO]
-    - python magic
-    - mongo
-    - 遇到过最坑的问题，怎么解决的
-    - 最近研究的技术，看的书，对哪块研究最深；
+- [TODO]()
+    - python magic
+    - mongo
+    - 遇到过最坑的问题，怎么解决的
+    - 最近研究的技术，看的书，对哪块研究最深；
 - [编程题](#编程题)
     - [1 台阶问题/斐波纳挈](#1-台阶问题斐波纳挈)
     - [2 变态台阶问题](#2-变态台阶问题)
@@ -912,6 +912,17 @@ apache 相对nginx 的优点：
 4. 知乎使用了Bcrypy(好像)加密
 
 ## 9 HTTP和HTTPS
+```python
+"""
+http1vs2区别；e-tag,last-modified,
+http1.0 vs 1.1 区别
+http缓存；
+http vs https
+http连接过程；https连接过程
+https原理
+"""
+
+```
 
 
 |状态码|定义|
